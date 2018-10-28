@@ -62,3 +62,7 @@ it does not assume that the features are all independent. The idea behind it is 
     Raghunathan Ramanth
     
     Dilip
+
+- Summary Charts 
+
+    Bruce Hao
