@@ -47,45 +47,47 @@ it does not assume that the features are all independent. The idea behind it is 
 
     - test-set analysis:
         - We notice that in the naive bayes version 2 classifier performed the best in terms of accuracy, followed by Maximum Entropy           and then by Decision Trees.
-    
+
     - dev-test analysis:
         - The Maximum Entropy classifer performed the best in terms of accuracy, followed by naive bayes v2, naive bayes v1 and,                decision trees.
-        
+
 - A reason why the dev-test accuracy performance was different than the test ones could be the following:
 
     - We trained and improved the accuracy of the dev-test set so that the test set can be even more accurate. Improving on the dev-test set helps to hopefully reduce errors and be ready for testing.
-    
+
     - Randomly shuffling the datasets each run could've been a factor as different runs give slighly different accuracy and most informative features could change.
-    
-    
-- Looking at the two graphs, it shows that the best classifer algorithm would be the Maximum Entropy. This is becauase it doesn't assume that all featuers and independent of one another. Also as mentioned, does not require a vast amount of data like decision trees as long as the dataset has a high entropy. 
+
+
+- Looking at the two graphs, it shows that the best classifer algorithm would be the Maximum Entropy. This is becauase it doesn't assume that all featuers and independent of one another. Also as mentioned, does not require a vast amount of data like decision trees as long as the dataset has a high entropy.
 
 ### Names of people who participated and their role:
 
 - Naive Bayes:
 
     Jonathan Hernandez
-    
+
     Kyle Glide
-    
+
     Aaron G
-    
+
+    Alvaro Bueno
+
 - Maximum Entropy
 
     Ahmed Sajjad
-    
+
     Raghunathan Ramanth
-    
+
     Mezue
-    
+
     David Quarshie
-    
+
 - Decision Trees
 
     Raghunathan Ramanth
-    
+
     Dilip
 
-- Summary Charts 
+- Summary Charts
 
     Bruce Hao
