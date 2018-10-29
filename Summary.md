@@ -78,6 +78,8 @@ it does not assume that the features are all independent. The idea behind it is 
     
     Mezue
     
+    David Quarshie
+    
 - Decision Trees
 
     Raghunathan Ramanth
