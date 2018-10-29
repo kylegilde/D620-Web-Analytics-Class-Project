@@ -87,6 +87,8 @@ it does not assume that the features are all independent. The idea behind it is 
     Raghunathan Ramanth
 
     Dilip
+    
+    Olya Fomicheva
 
 - Summary Charts
 
